@@ -1,9 +1,3 @@
-application: luberlu-engine
-version: 1
-runtime: php55
+runtime: python27
 api_version: 1
 threadsafe: true
-
-handlers:
-- url: .*
-  script: index.html
